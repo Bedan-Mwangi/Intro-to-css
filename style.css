@@ -1,0 +1,25 @@
+/* Universl indicator*/
+*{
+    background-color: green;
+    color: white;
+}
+
+/* class selector*/
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*id selector*/
+ #paragraph{
+    color: red;
+ }
+
+/* Type Selector*/
+h3{
+    font-style: italic;
+}
+
+/* Chain Selector*/
+h3,h4{
+    font-size: larger;
+}
